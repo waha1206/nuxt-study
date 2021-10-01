@@ -6,7 +6,7 @@
 </template>
 <script>
 export default {
-  layout: "default",
+  layout: "dark",
   data({ req }) {
     return {
       name: req ? "server" : "client"
@@ -14,3 +14,4 @@ export default {
   }
 };
 </script>
+<style scoped></style>

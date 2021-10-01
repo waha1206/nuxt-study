@@ -10,8 +10,9 @@
   left: 0;
   width: 100%;
   min-height: 100%;
-  padding: 10px;
-  background-color: #000;
+  margin: 0;
+  padding: 0;
+  background-color: #282c34;
   color: white;
 }
 
